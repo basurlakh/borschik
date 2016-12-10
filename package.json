@@ -21,7 +21,8 @@
     "vow": "0.4.12",
     "vow-fs": "0.3.6",
     "csso": "^2.0.0",
-    "uglify-js": "2.7.4"
+    "uglify-js": "2.7.4",
+    "mkdirp": "^0.5.1"
   },
   "devDependencies": {
     "coveralls": "^2.11.14",
